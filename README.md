@@ -1,1 +1,63 @@
-IyDwn4OPIOaWl+WcsOS4uyAtIOe9kemhteeJiOS4ieS6uuaWl+WcsOS4uwoK5LiA5Liq57qv5YmN56uv572R6aG154mI5paX5Zyw5Li75bCP5ri45oiP77yMSFRNTCArIENTUyArIEphdmFTY3JpcHQg5a6e546w77yM5peg6ZyA5Lu75L2V5L6d6LWW77yM5omT5byA5Y2z546p44CCCgojIyDinKgg54m56ImyCgotIPCfjq4gKirmoIflh4bmlpflnLDkuLvop4TliJkqKu+8muWNleW8oOOAgeWvueWtkOOAgeS4ieW8oOOAgeS4ieW4puS4gOOAgeS4ieW4puS6jOOAgemhuuWtkOOAgei/nuWvueOAgeeCuOW8ueOAgeeBq+eurQotIPCfpJYgKirkuKTkuKogQUkg576O5aWz5a+55omLKirvvJrlsI/nvo4g8J+RqfCfj7sgKyDlsI/kuL0g8J+RqfCfj7zvvIzmmbrog73lh7rniYzvvIzmiZPkuI3ov4flsLHllorniYzmsqHpl67popgKLSDwn46yICoq6ZqP5py65Zyw5Li7KirvvJrmr4/lsYDpmo/mnLrliIbphY3lnLDkuLvvvIzkvaDlj6/og73lvZPlnLDkuLvkuZ/lj6/og73lvZPlhpzmsJEKLSDwn5iEICoq6Laj5ZGz5py65Yi2KirvvJrkvaDlh7rku7vmhI/niYwgQUkg6YO95o6l5Y+X77yM6KaB5LiN6LW35pe25omN5ZaK44CM54mM5rKh5pyJ6Zeu6aKY77yB44CNCi0g8J+TsSAqKuWTjeW6lOW8j+iuvuiuoSoq77ya5omL5py65ZKM55S16ISR6YO96IO9546pCi0g4oyo77iPICoq6ZSu55uY5b+r5o236ZSuKirvvJpFbnRlciDlh7rniYzvvIxQIOS4jeWHugoKIyMg8J+OryDmgI7kuYjnjqkKCjEuIOaJk+W8gCBgaW5kZXguaHRtbGAKMi4g54K55Ye75omL54mM6YCJ5Lit6KaB5Ye655qE54mM77yI5Y+v5aSa6YCJ77yJCjMuIOeCueWHu+OAjOWHuueJjOOAjeaIluaMiSBFbnRlcgo0LiDkuI3mg7Plh7rlsLHngrnjgIzkuI3lh7rjgI3miJbmjIkgUAo1LiDlhYjmiorniYzlh7rlrozlsLHotaLkuobvvIEKCiMjIPCfmoAg6YOo572yCgojIyMg5pys5Zyw5omT5byACuebtOaOpeWPjOWHuyBgaW5kZXguaHRtbGAg55So5rWP6KeI5Zmo5omT5byA5Y2z5Y+v44CCCgojIyMgR2l0SHViIFBhZ2VzCjEuIEZvcmsg6L+Z5Liq5LuT5bqTCjIuIOWcqCBTZXR0aW5ncyDihpIgUGFnZXMg5Lit5ZCv55So77yM6YCJ5oupIG1haW4g5YiG5pSvCjMuIOiuv+mXriBgaHR0cHM6Ly/kvaDnmoTnlKjmiLflkI0uZ2l0aHViLmlvL+S7k+W6k+WQjS9gCgojIyMg5Lu75oSP6Z2Z5oCB5pyN5Yqh5ZmoCmBgYGJhc2gKIyBQeXRob24KcHl0aG9uMyAtbSBodHRwLnNlcnZlciA4MDgwCgojIE5vZGUuanMKbnB4IHNlcnZlIC4KYGBgCgojIyDwn5ug77iPIOaKgOacr+agiAoKLSDnuq8gSFRNTCArIENTUyArIEphdmFTY3JpcHQKLSDml6DmoYbmnrbjgIHml6Dkvp3otZYKLSDmiYDmnInniYzlnovor4bliKvlkowgQUkg6YC76L6R5Z2H6Ieq6KGM5a6e546wCgojIyDwn5OdIOeJjOWei+ivtOaYjgoKfCDniYzlnosgfCDor7TmmI4gfCDnpLrkvosgfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS18Cnwg5Y2V5bygIHwgMSDlvKAgfCDimaAzIHwKfCDlr7nlrZAgfCAyIOW8oOWQjOeCueaVsCB8IOKZpTUg4pmjNSB8Cnwg5LiJ5bygIHwgMyDlvKDlkIzngrnmlbAgfCDimaBLIOKZpUsg4pmjSyB8Cnwg5LiJ5bim5LiAIHwgMyDlvKDlkIzngrnmlbAgKyAxIOW8oCB8IOKZoDgg4pmlOCDimaM4ICsg4pmmNCB8Cnwg5LiJ5bim5LqMIHwgMyDlvKDlkIzngrnmlbAgKyAxIOWvuSB8IOKZoEog4pmlSiDimaNKICsg4pmmNSDimaA1IHwKfCDpobrlrZAgfCA1IOW8oCvov57nu63ljZXlvKAgfCDimaAzIOKZpTQg4pmjNSDimaY2IOKZoDcgfAp8IOi/nuWvuSB8IDMg5a+5K+i/nue7reWvueWtkCB8IOKZpTMg4pmjMyDimaA0IOKZpjQg4pmlNSDimaM1IHwKfCDngrjlvLkgfCA0IOW8oOWQjOeCueaVsCB8IOKZoEEg4pmlQSDimaNBIOKZpkEgfAp8IOeBq+eurSB8IOWkp+Wwj+eOiyB8IPCfg48g8J+RkSB8CgojIyDwn5OEIExpY2Vuc2UKCk1JVAo=
+# 🃏 斗地主 - 网页版三人斗地主
+
+一个纯前端网页版斗地主小游戏，HTML + CSS + JavaScript 实现，无需任何依赖，打开即玩。
+
+## ✨ 特色
+
+- 🎮 **标准斗地主规则**：单张、对子、三张、三带一、三带二、顺子、连对、炸弹、火箭
+- 🤖 **两个 AI 美女对手**：小美 👩🏻 + 小丽 👩🏼，智能出牌，打不过就喊牌没问题
+- 🎲 **随机地主**：每局随机分配地主，你可能当地主也可能当农民
+- 😄 **趣味机制**：你出任意牌 AI 都接受，要不起时才喊「牌没有问题！」
+- 📱 **响应式设计**：手机和电脑都能玩
+- ⌨️ **键盘快捷键**：Enter 出牌，P 不出
+
+## 🎯 怎么玩
+
+1. 打开 `index.html`
+2. 点击手牌选中要出的牌（可多选）
+3. 点击「出牌」或按 Enter
+4. 不想出就点「不出」或按 P
+5. 先把牌出完就赢了！
+
+## 🚀 部署
+
+### 本地打开
+直接双击 `index.html` 用浏览器打开即可。
+
+### GitHub Pages
+1. Fork 这个仓库
+2. 在 Settings → Pages 中启用，选择 main 分支
+3. 访问 `https://你的用户名.github.io/仓库名/`
+
+### 任意静态服务器
+```bash
+# Python
+python3 -m http.server 8080
+
+# Node.js
+npx serve .
+```
+
+## 🛠️ 技术栈
+
+- 纯 HTML + CSS + JavaScript
+- 无框架、无依赖
+- 所有牌型识别和 AI 逻辑均自行实现
+
+## 📝 牌型说明
+
+| 牌型 | 说明 | 示例 |
+|------|------|------|
+| 单张 | 1 张 | ♠3 |
+| 对子 | 2 张同点数 | ♥5 ♣5 |
+| 三张 | 3 张同点数 | ♠K ♥K ♣K |
+| 三带一 | 3 张同点数 + 1 张 | ♠8 ♥8 ♣8 + ♦4 |
+| 三带二 | 3 张同点数 + 1 对 | ♠J ♥J ♣J + ♦5 ♠5 |
+| 顺子 | 5 张+连续单张 | ♠3 ♥4 ♣5 ♦6 ♠7 |
+| 连对 | 3 对+连续对子 | ♥3 ♣3 ♠4 ♦4 ♥5 ♣5 |
+| 炸弹 | 4 张同点数 | ♠A ♥A ♣A ♦A |
+| 火箭 | 大小王 | 🃏 👑 |
+
+## 📄 License
+
+MIT
